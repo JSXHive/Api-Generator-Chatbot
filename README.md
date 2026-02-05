@@ -102,4 +102,4 @@ Distributed under the **MIT License**. See `LICENSE.md` for more information.
 
 **Sharvari Shet Karmalkar** - [shetkarmalkarsharvari@gmail.com](mailto:shetkarmalkarsharvari@gmail.com)
 
-Project Link: [https://github.com/SJSXHive/API-Generator-ChatBOT](https://github.com/JSXHive/API-Generator-ChatBOT)
+Project Link: [https://github.com/JSXHive/API-Generator-ChatBOT](https://github.com/JSXHive/API-Generator-ChatBOT)
